@@ -31,3 +31,4 @@ description: Published 1st episode.
 * taptappun
 * shuichitakaya
 * たなか_大日本技研
+* Hさん（ATND登録がなかったのでイニシャルのみ）
