@@ -1,6 +1,6 @@
-# プログラマーズカフェＷｅｂサイト
-プログラマーズカフェのサイトを作成するためのリポジトリです。
-このサイトは [Netlify用の機能を追加したGatsby](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-netlify) という ヘッドレスCMS をベースにしています。
+# プログラマーズカフェWebサイト
+プログラマーズカフェのサイトを作成するためのリポジトリです。
+このサイトは [Netlify用の機能を追加したGatsby](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-netlify) という ヘッドレスCMS をベースにしています。
 
 ## ページ作成、開発をはじめる
 git clone などでソースコードを入手した後、以下のコマンドを実行
