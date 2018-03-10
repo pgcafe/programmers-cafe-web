@@ -14,7 +14,7 @@ description: 2018年3月のプログラマーズカフェ
   * 配布方法：Twitterでつぶやく：アカウント持ってる人が少なかった
   * 前回は無料で配布
   * お金を払うか、Twitterでつぶやくか？
-* suichitakaya
+* shuichitakaya
   * Flutter
     * Dart?
     * Android P
