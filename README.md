@@ -31,7 +31,7 @@ src/pages
 
 また、
 ```
-src/pages
+src/pages/blog
 ```
 
 以下に .md ファイルを追加するとブログ記事として追加されます。
