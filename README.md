@@ -38,7 +38,7 @@ src/pages/blog
 
 ## 公開、反映
 
-ローカルで編集後、git pushすると https://pgcafe.netlify.com/ が更新されます。
+ローカルで編集後、__このリポジトリに__ git pushすると https://pgcafe.netlify.com/ が更新されます。
 
 
 
