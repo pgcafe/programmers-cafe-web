@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'プログラマーズカフェ',
+    siteUrl: 'https://pgcafe.netlify.com',
+    description: 'Event driven programmer\'s community.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -32,6 +34,9 @@ module.exports = {
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
+    },
+    {
+      resolve: `gatsby-plugin-feed`
     },
   ],
 }
