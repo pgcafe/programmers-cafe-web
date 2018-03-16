@@ -22,7 +22,7 @@ const Navbar = () => (
       <div className="navbar-end">
         <a
           className="navbar-item"
-          href="https://github.com/hisasue/programmers-cafe-web"
+          href="https://github.com/pgcafe/programmers-cafe-web"
           rel="noopener noreferrer"
         >
           <span className="icon">
