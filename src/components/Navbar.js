@@ -18,6 +18,9 @@ const Navbar = () => (
         <Link className="navbar-item" to="/about">
           About
         </Link>
+        <a class="navbar-item" href="http://feeds.soundcloud.com/users/soundcloud:users:398628864/sounds.rss">
+          RSS(Podcast)
+        </a>
       </div>
       <div className="navbar-end">
         <a
