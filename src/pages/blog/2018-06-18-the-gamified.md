@@ -4,6 +4,7 @@ title: '[Podcast] 8: The Gamified'
 date: 2018-06-18T23:00:00.00Z
 description: ソーシャルゲームを開発している会社でデータ分析をしているトミーさんと話しました
 ---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/459966276%3Fsecret_token%3Ds-IrA2g&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### Show Notes
 
